@@ -21,7 +21,7 @@ repository               : "MrZhqw/mrzhqw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/500x300.png"
+  avatar           : "500x300.png"
   name             : "Qiwen Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Master Student"
