@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Qiwen Zheng"
-description              : &description "personal description"
+description              : "Graduate Student in NJUST"
 url                      : https://mrzhqw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MrZhqw/mrzhqw.github.io"
@@ -22,9 +22,9 @@ repository               : "MrZhqw/mrzhqw.github.io"
 author:
   # Biographic information
   avatar           : "Zhqw.jpg"
-  name             : "Qiwen Zheng"
+  name             : "Qiwen Zheng (郑祺文)"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student in NJUST"
+  bio              : "Keep Learning and Thinking"
   location         : "Nanjing, China"
   employer         : 
   uri              : # URL
