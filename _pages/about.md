@@ -16,7 +16,7 @@ I am currently a master's student in the Department of Intelligent Science and T
 Due to the characteristics of my major, I participated in many research projects and competitions during my study in the school, these experiences significantly enhanced my practical skills, problem-solving abilities and research innovation capabilities. My research interests lie in Robotics, Reinforcement Learning and Unmanned Systems. I am interested and passionate in handling challenges of Artificial Intelligence in real-world applications. Currently, I am focusing and working hard on researching feasible reinforcement learning methods to address the control and decision-making issues of tilt-rotor VTOL aircraft, which is an important aircraft for  low-altitude economy.
 </p>
 <p style="text-align: justify">
-My hometown is in the beautiful Quanzhou, Fujian. Since graduating from high school, it has been nearly seven years since I came to Nanjing for my study. In the future, I hope I can keep learning and making new progress, and I prefer to go to somewhere closer to my home if possible.
+My hometown is in the beautiful Quanzhou, Fujian. Since graduating from high school, it has been nearly seven years since I came to Nanjing for my study. In the future, I hope I can keep learning and making new progress, and if possible I prefer to go to somewhere closer to my home.
 </p>
 
 ## <font color="#2B6ADD" > Education </font>

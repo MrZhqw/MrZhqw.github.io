@@ -28,7 +28,7 @@ In the freight port, we develop an autonomous driving system to enable unmanned 
 
   <figure style="margin: 0; text-align: center;">
     <img src="/images/AD/3.jpg" alt="Image 3" style="width: 85%; height: auto;" />
-    <figcaption>View from inside the heavy truck</figcaption>
+    <figcaption>View inside the heavy truck</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
@@ -92,12 +92,12 @@ We propose a novel quadrotor control policy using Gaussian ensemble model-based 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
     <img src="/images/RL/3.jpg" alt="Image 1" style="width: 85%; height: auto;" />
-    <figcaption>Mine (captured by DJI Mini3 Pro)</figcaption>
+    <figcaption>Airsim simulation</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
     <img src="/images/RL/4.jpg" alt="Image 2" style="width: 85%; height: auto;" />
-    <figcaption>Mine truck equipped with an autonomous driving system</figcaption>
+    <figcaption>Flying quadrotor in Airsim simulator</figcaption>
   </figure>
     <figure style="margin: 0; text-align: center;">
     <img src="/images/RL/3.jpg" alt="Image 3" style="width: 85%; height: auto;" />
@@ -110,24 +110,19 @@ We propose a novel quadrotor control policy using Gaussian ensemble model-based 
   </figure>
     <figure style="margin: 0; text-align: center;">
     <img src="/images/RL/3.jpg" alt="Image 5" style="width: 85%; height: auto;" />
-    <figcaption>Mine (captured by DJI Mini3 Pro)</figcaption>
+    <figcaption>Quadrotor based on Pixhawk</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
     <img src="/images/RL/4.jpg" alt="Image 6" style="width: 85%; height: auto;" />
-    <figcaption>Mine truck equipped with an autonomous driving system</figcaption>
+    <figcaption>Quadrotor flying verification</figcaption>
   </figure>
 </div>
-
-Airsim环境、Airsim四旋翼飞行(下午截)
-基于模型的强化学习，实机验证一张图
-四旋翼静止图片、飞行图片
-
 
 ### <font color="#2B6ADD" > Tilt-rotor Flight Control Based On Reinforcement Learning </font>
 
 <p style="text-align: justify">
-To address the control and decision-making issues of tilt-rotor aircraft, Research the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement learning. Currently, I am working hard on it.
+To address the control and decision-making issues of tilt-rotor aircraft, we study the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement learning. Currently, I am working on it.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
@@ -138,13 +133,9 @@ To address the control and decision-making issues of tilt-rotor aircraft, Resear
 
   <figure style="margin: 0; text-align: center;">
     <img src="/images/RL/5.jpg" alt="Image 2" style="width: 85%; height: auto;" />
-    <figcaption>Beautiful </figcaption>
+    <figcaption>X-Plane Simulation</figcaption>
   </figure>
 </div>
-
-X-plane仿真、分层强化学习一张图
-正在开展工作
-
 
 ## <font color="#2B6ADD" > Pattern Recognition</font>
 
@@ -169,12 +160,12 @@ Based on smartphone sensor data, a deep learning model is constructed to achieve
 ### <font color="#2B6ADD" >Intelligent Classification System of Household Waste</font>
 
 <p style="text-align: justify">
-Based on machine vision, we independently design and build an intelligent classification system of household waste, which can perform functions such as intelligent recognition, classification, full load detection and so on. We called the system "Ling Yi" (灵毅), in order to commemorate the efforts of our team.
+Based on machine vision, we independently design and build an intelligent classification system of household waste, which can perform functions such as intelligent recognition, classification, full load detection and so on. We called the system "Ling Yi" (灵毅), in order to commemorate our efforts.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/PR/LY_1.jpg" alt="Image 1" style="width: 75%; height: auto;" />
+    <img src="/images/PR/LY_1.jpg" alt="Image 1" style="width: 70%; height: auto;" />
     <figcaption>Intelligent classification system based on machine vision</figcaption>
   </figure>
 
@@ -199,7 +190,7 @@ Based on image processing, We independently design and build a non-contact autom
 </p>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/PR/LM_1.jpg" alt="Image 1" style="width: 75%; height: auto;" />
+    <img src="/images/PR/LM_1.jpg" alt="Image 1" style="width: 70%; height: auto;" />
     <figcaption>Automatic measurement system just like eyes</figcaption>
   </figure>
 </div>
@@ -213,7 +204,7 @@ Other interesting pictures about image recognition.
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
 
   <figure style="margin: 0; text-align: center;">
-  <img src="/images/PR/IR_2.jpg" alt="Image 2" style="width: 75%; height: auto;" />
+  <img src="/images/PR/IR_2.jpg" alt="Image 2" style="width: 70%; height: auto;" />
   <figcaption>Target detection and tracking based on the infrared camera</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
