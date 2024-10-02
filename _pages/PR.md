@@ -16,13 +16,13 @@ In the freight terminal, we develop an autonomous driving system to enable unman
 </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <figure style="margin: 5; text-align: center;">
-    <img src="/images/500x300.png" alt="Image 1"/>
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/500x300.png" alt="Image 1" style="width: 80%;"/>
     <figcaption>图题 1：这是图像 1 的描述。</figcaption>
   </figure>
 
-  <figure style="margin: 5; text-align: center;">
-    <img src="/images/500x300.png" alt="Image 2" />
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/500x300.png" alt="Image 2" style="width: 80%;"/>
     <figcaption>图题 2：这是图像 2 的描述。</figcaption>
   </figure>
 </div>
