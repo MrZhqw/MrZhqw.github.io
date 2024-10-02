@@ -62,11 +62,27 @@ In the freight terminal, we develop an autonomous driving system to enable unman
   </figure>
 </div>
 
-### <font color="#2B6ADD" > 跨越险阻 </font>
+### <font color="#2B6ADD" >"Overcoming Obstacles 2023"</font>
 
+<p style="text-align: justify">
+In the complex outdoor environment, we develop an autonomous driving system to enable unmanned off-road vehicle to complete tasks independently.
+</p>
+<p style="text-align: justify">
+Some pictures cannot be displayed, here are some scenic photos.
+</p>
 
-一些照片不能展示，展示一些美景
-两张景色图
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/AD/9.jpg" alt="Image 1" style="width: 85%; height: auto;" />
+    <figcaption>Gobi</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/AD/10.jpg" alt="Image 2" style="width: 85%; height: auto;" />
+    <figcaption>Beautiful Alxa</figcaption>
+  </figure>
+</div>
+
 
 ## <font color="#2B6ADD" > Reinforcement Learning and Flying Robots</font>
 
