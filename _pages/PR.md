@@ -16,7 +16,7 @@ In the freight terminal, we develop an autonomous driving system to enable unman
 </p>
 <br>
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
   <figure style="margin: 0; text-align: center;">
     <img src="/images/500x300.png" alt="Image 1" style="width: 45%;" />
     <figcaption>图题 1：这是图像 1 的描述。</figcaption>
@@ -26,9 +26,12 @@ In the freight terminal, we develop an autonomous driving system to enable unman
     <img src="/images/500x300.png" alt="Image 2" style="width: 45%;" />
     <figcaption>图题 2：这是图像 2 的描述。</figcaption>
   </figure>
-</div>
+</div> -->
 
-
+<figure style="margin: 0; text-align: center;">
+  <img src="/images/500x300.png" alt="Image 1" style="width: 45%;" />
+  <figcaption>图题 1：这是图像 1 的描述。</figcaption>
+</figure>
 
 ### <font color="#2B6ADD" > Autonomous Driving in Mining </font>
 
