@@ -37,12 +37,12 @@ In the freight terminal, we develop an autonomous driving system to enable unman
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-  <img src="/images/AD/5.jpg" alt="Image 4" style="width: 85%; height: auto;" />
+  <img src="/images/AD/5.jpg" alt="Image 5" style="width: 85%; height: auto;" />
   <figcaption>CarSim simulation</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-  <img src="/images/AD/6.jpg" alt="Image 4" style="width: 85%; height: auto;" />
+  <img src="/images/AD/6.jpg" alt="Image 6" style="width: 85%; height: auto;" />
   <figcaption>Preliminary algorithm verification</figcaption>
   </figure>
 
@@ -67,6 +67,7 @@ In the freight terminal, we develop an autonomous driving system to enable unman
 <p style="text-align: justify">
 In the complex outdoor environment, we develop an autonomous driving system to enable unmanned off-road vehicle to complete tasks independently.
 </p>
+
 <p style="text-align: justify">
 Some pictures cannot be displayed, here are some scenic photos.
 </p>
@@ -86,16 +87,68 @@ Some pictures cannot be displayed, here are some scenic photos.
 
 ## <font color="#2B6ADD" > Reinforcement Learning and Flying Robots</font>
 
-### <font color="#2B6ADD" > 基于模型的强化学习 </font>
+### <font color="#2B6ADD" > Model-based Reinforcement Learning </font>
+
+<p style="text-align: justify">
+We propose a novel quadrotor control policy using Gaussian ensemble model-based reinforcement learning, this method can improve the sample efficiency.
+</p>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/3.jpg" alt="Image 1" style="width: 85%; height: auto;" />
+    <figcaption>Mine (captured by DJI Mini3 Pro)</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/4.jpg" alt="Image 2" style="width: 85%; height: auto;" />
+    <figcaption>Mine truck equipped with an autonomous driving system</figcaption>
+  </figure>
+    <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/3.jpg" alt="Image 3" style="width: 85%; height: auto;" />
+    <figcaption>Gaussian ensemble model</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/4.jpg" alt="Image 4" style="width: 85%; height: auto;" />
+    <figcaption>The training framework for quadrotor in AirSim</figcaption>
+  </figure>
+    <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/3.jpg" alt="Image 5" style="width: 85%; height: auto;" />
+    <figcaption>Mine (captured by DJI Mini3 Pro)</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/4.jpg" alt="Image 6" style="width: 85%; height: auto;" />
+    <figcaption>Mine truck equipped with an autonomous driving system</figcaption>
+  </figure>
+</div>
 
 Airsim环境、Airsim四旋翼飞行(下午截)
 基于模型的强化学习，实机验证一张图
 四旋翼静止图片、飞行图片
 
 
-### <font color="#2B6ADD" > 基于强化学习的倾转旋翼控制 </font>
+### <font color="#2B6ADD" > Tilt-rotor Flight Control Based On Reinforcement Learning </font>
+
+<p style="text-align: justify">
+To address the control and decision-making issues of tilt-rotor aircraft, Research the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement. learning
+</p>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/5.jpg" alt="Image 5" style="width: 85%; height: auto;" />
+    <figcaption>Three flight modes of tilt-rotor aircraft</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/5.jpg" alt="Image 6" style="width: 85%; height: auto;" />
+    <figcaption>Beautiful </figcaption>
+  </figure>
+</div>
+
 X-plane仿真、分层强化学习一张图
 正在开展工作
+
 
 ## <font color="#2B6ADD" > Pattern Recognition</font>
 
