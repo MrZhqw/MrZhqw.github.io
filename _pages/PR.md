@@ -15,14 +15,14 @@ I enjoy creating interesting things through hands-on and thinking, despite encou
 In the freight terminal, we develop an autonomous driving system to enable unmanned operations for heavy trucks.
 </p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/1.jpg" alt="Image 1" style="width: 80%;"/>
+    <img src="/images/AD/1.jpg" alt="Image 1" style="width: 80%;" />
     <figcaption>Freight terminal (captured by DJI Mini3 Pro)</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/2.jpg" alt="Image 2" style="width: 80%;"/>
+    <img src="/images/AD/2.jpg" alt="Image 2" style=" width: 80%;"/>
     <figcaption>Heavy truck equipped with an autonomous driving system</figcaption>
   </figure>
 </div>
