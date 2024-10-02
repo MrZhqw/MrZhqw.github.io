@@ -28,12 +28,13 @@ In the freight terminal, we develop an autonomous driving system to enable unman
   </figure>
 </div>
 
-场景、车
-车上照片、自动驾驶控制器
-Carsim仿真、验证车
+
 
 ### <font color="#2B6ADD" > Autonomous Driving in Mining </font>
 
+场景、车
+车上照片、自动驾驶控制器
+Carsim仿真、验证车
 场景、车
 
 ### <font color="#2B6ADD" > 跨越险阻 </font>
