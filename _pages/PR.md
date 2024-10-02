@@ -28,10 +28,16 @@ In the freight terminal, we develop an autonomous driving system to enable unman
   </figure>
 </div> -->
 
-<figure style="margin: 0; text-align: center;">
+<!-- <figure style="margin: 0; text-align: center;">
   <img src="/images/500x300.png" alt="Image 1" style="width: 45%;" />
   <figcaption style="margin-top: 5px;">存在一些问题</figcaption>
+</figure> -->
+<figure>
+  <img src="/images/500x300.png" alt="Image 1" />
+  <figcaption>图题 1：这是图像 1 的描述。</figcaption>
 </figure>
+
+
 
 ### <font color="#2B6ADD" > Autonomous Driving in Mining </font>
 
