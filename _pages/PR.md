@@ -4,23 +4,41 @@ permalink: /PR/
 title: ""
 author_profile: true
 ---
-
-I will show some interesting pictures. 
+<p style="text-align: justify">
+I enjoy creating interesting things through hands-on and thinking, despite encountering many problems in this process. I will share some interesting pictures of projects and research in this page.
+</p>
 
 ## <font color="#2B6ADD" > Autonomous Driving </font>
 
-### <font color="#2B6ADD" > 散货码头 </font>
-123<br>
-<p align="justify">
-  <img src="/images/500x300.png" alt="Image 1" width="45%" />
-  <img src="/images/500x300.png" alt="Image 2" width="45%" />
+### <font color="#2B6ADD" > Autonomous Driving in Freight Terminal </font>
+<p style="text-align: justify">
+In the freight terminal, we develop an autonomous driving system to enable unmanned operations for heavy trucks.
 </p>
+<br>
+<!-- <p align="justify">
+
+  <!-- <img src="/images/500x300.png" alt="Image 1" width="45%" /> -->
+
+  <!-- <img src="/images/500x300.png" alt="Image 2" width="45%" /> -->
+<!-- </p> -->
+
+<div style="display: flex; justify-content: space-between;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/500x300.png" alt="Image 1" style="width: 45%;" />
+    <figcaption>图题 1：这是图像 1 的描述。</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/500x300.png" alt="Image 2" style="width: 45%;" />
+    <figcaption>图题 2：这是图像 2 的描述。</figcaption>
+  </figure>
+</div>
 
 场景、车
 车上照片、自动驾驶控制器
 Carsim仿真、验证车
 
-### <font color="#2B6ADD" > 矿山自动驾驶 </font>
+### <font color="#2B6ADD" > Autonomous Driving in Mining </font>
 
 场景、车
 
