@@ -4,6 +4,9 @@ permalink: /CL/
 title: ""
 author_profile: true
 ---
+<p style="text-align: justify">
+Some unforgettable moments of my campus life in this page.
+</p>
 
 ## <font color="#2B6ADD" > Party Branch Experience</font>
 
@@ -33,11 +36,11 @@ Volunteer experiences are also an important part of my campus life, especially i
 
   <figure style="margin: 0; text-align: center;">
   <img src="/images/CL/3.jpg" alt="Image 2" style="width: 80%; height: auto;" />
-  <figcaption>Volunteer service during the COVID-19 pandemic</figcaption>
+  <figcaption>Volunteer service during the COVID-19 pandemic (2021)</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/images/CL/4.jpg" alt="Image 1" style="width: 80%; height: auto;" />
-    <figcaption>Community volunteer activity, teaching children their homework</figcaption>
+    <figcaption>Community volunteer activity, teaching children their homework (2019)</figcaption>
   </figure>
 </div>
 
