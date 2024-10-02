@@ -10,15 +10,15 @@ I enjoy creating interesting things through hands-on and thinking, despite encou
 
 ## <font color="#2B6ADD" > Autonomous Driving </font>
 
-### <font color="#2B6ADD" > Autonomous Driving in Freight Terminal </font>
+### <font color="#2B6ADD" > Autonomous Driving in Freight Port </font>
 <p style="text-align: justify">
-In the freight terminal, we develop an autonomous driving system to enable unmanned operations for heavy trucks.
+In the freight port, we develop an autonomous driving system to enable unmanned operations for heavy trucks.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
     <img src="/images/AD/1.jpg" alt="Image 1" style="width: 85%; height: auto;" />
-    <figcaption>Freight terminal (captured by DJI Mini3 Pro)</figcaption>
+    <figcaption>Freight port (captured by DJI Mini3 Pro)</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
@@ -49,7 +49,9 @@ In the freight terminal, we develop an autonomous driving system to enable unman
 </div>
 
 ### <font color="#2B6ADD" > Autonomous Driving in Mine </font>
-
+<p style="text-align: justify">
+An autonomous driving system is designed for mine trucks.
+</p>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
     <img src="/images/AD/7.jpg" alt="Image 1" style="width: 85%; height: auto;" />
@@ -172,7 +174,7 @@ Based on machine vision, we independently design and build an intelligent classi
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/PR/LY_1.jpg" alt="Image 1" style="width: 85%; height: auto;" />
+    <img src="/images/PR/LY_1.jpg" alt="Image 1" style="width: 75%; height: auto;" />
     <figcaption>Intelligent classification system based on machine vision</figcaption>
   </figure>
 
@@ -197,7 +199,7 @@ Based on image processing, We independently design and build a non-contact autom
 </p>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/PR/LM_1.jpg" alt="Image 1" style="width: 85%; height: auto;" />
+    <img src="/images/PR/LM_1.jpg" alt="Image 1" style="width: 75%; height: auto;" />
     <figcaption>Automatic measurement system just like eyes</figcaption>
   </figure>
 </div>
@@ -211,7 +213,7 @@ Other interesting pictures about image recognition.
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
 
   <figure style="margin: 0; text-align: center;">
-  <img src="/images/PR/IR_2.jpg" alt="Image 2" style="width: 85%; height: auto;" />
+  <img src="/images/PR/IR_2.jpg" alt="Image 2" style="width: 75%; height: auto;" />
   <figcaption>Target detection and tracking based on the infrared camera</figcaption>
   </figure>
   <figure style="margin: 0; text-align: center;">
