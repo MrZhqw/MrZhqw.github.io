@@ -71,7 +71,7 @@ In the complex outdoor environment, we develop an autonomous driving system to e
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
     <img src="/images/AD/9.jpg" alt="Image 1" style="width: 85%; height: auto;" />
-    <figcaption>Gobi</figcaption>
+    <figcaption></figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
