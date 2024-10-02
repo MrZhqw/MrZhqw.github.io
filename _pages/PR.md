@@ -15,12 +15,6 @@ I enjoy creating interesting things through hands-on and thinking, despite encou
 In the freight terminal, we develop an autonomous driving system to enable unmanned operations for heavy trucks.
 </p>
 <br>
-<!-- <p align="justify">
-
-  <!-- <img src="/images/500x300.png" alt="Image 1" width="45%" /> -->
-
-  <!-- <img src="/images/500x300.png" alt="Image 2" width="45%" /> -->
-<!-- </p> -->
 
 <div style="display: flex; justify-content: space-between;">
   <figure style="margin: 0; text-align: center;">
