@@ -65,11 +65,7 @@ In the freight terminal, we develop an autonomous driving system to enable unman
 ### <font color="#2B6ADD" >"Overcoming Obstacles 2023"</font>
 
 <p style="text-align: justify">
-In the complex outdoor environment, we develop an autonomous driving system to enable unmanned off-road vehicle to complete tasks independently.
-</p>
-
-<p style="text-align: justify">
-Some pictures cannot be displayed, here are some scenic photos.
+In the complex outdoor environment, we develop an autonomous driving system to enable unmanned off-road vehicle to complete tasks independently. Some pictures cannot be displayed, here are some scenic photos.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
