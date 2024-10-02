@@ -122,7 +122,7 @@ We propose a novel quadrotor control policy using Gaussian ensemble model-based 
 ### <font color="#2B6ADD" > Tilt-rotor Flight Control Based On Reinforcement Learning </font>
 
 <p style="text-align: justify">
-To address the control and decision-making issues of tilt-rotor aircraft, we study the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement learning. Currently, I am working on it.
+To address the control and decision-making issues of tilt-rotor aircraft, we study the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement learning. Currently, I am working hard on it.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">

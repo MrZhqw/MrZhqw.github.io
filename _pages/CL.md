@@ -47,7 +47,7 @@ Volunteer experiences are also an important part of my campus life, especially i
 ## <font color="#2B6ADD" > Marathons </font>
 
 <p style="text-align: justify">
-I like running, especially marathons. Life is like a marathon full of twists and turns, just keep moving forward.
+I enjoy running, especially marathons. In my opinion, life is like a marathon full of twists and turns, just keep moving forward.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">

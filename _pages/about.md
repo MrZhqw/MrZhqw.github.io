@@ -22,10 +22,10 @@ My hometown is in the beautiful Quanzhou, Fujian. Since graduating from high sch
 ## <font color="#2B6ADD" > Education </font>
 
 - MEng in Pattern Recognition and Intelligent Systems<br>
-  Nanjing University of Science and Technology,Nanjing
+  Nanjing University of Science and Technology, Nanjing
 
 - BEng in Automation<br>
-  Nanjing University of Science and Technology,Nanjing
+  Nanjing University of Science and Technology, Nanjing
 
 ## <font color="#2B6ADD" > Research Interests </font>
 
