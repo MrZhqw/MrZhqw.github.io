@@ -17,32 +17,32 @@ In the freight terminal, we develop an autonomous driving system to enable unman
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/1.jpg" alt="Image 1" style="width: 100%; height: auto;" />
+    <img src="/images/AD/1.jpg" alt="Image 1" style="width: 85%; height: auto;" />
     <figcaption>Freight terminal (captured by DJI Mini3 Pro)</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/2.jpg" alt="Image 2" style="width: 100%; height: auto;" />
+    <img src="/images/AD/2.jpg" alt="Image 2" style="width: 85%; height: auto;" />
     <figcaption>Heavy truck equipped with an autonomous driving system</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/3.jpg" alt="Image 3" style="width: 100%; height: auto;" />
+    <img src="/images/AD/3.jpg" alt="Image 3" style="width: 85%; height: auto;" />
     <figcaption>View from inside the heavy truck</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/4.jpg" alt="Image 4" style="width: 100%; height: auto;" />
+    <img src="/images/AD/4.jpg" alt="Image 4" style="width: 85%; height: auto;" />
     <figcaption>Self-developed autonomous driving domain controller</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-  <img src="/images/AD/5.jpg" alt="Image 4" style="width: 100%; height: auto;" />
+  <img src="/images/AD/5.jpg" alt="Image 4" style="width: 85%; height: auto;" />
   <figcaption>CarSim simulation</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-  <img src="/images/AD/6.jpg" alt="Image 4" style="width: 100%; height: auto;" />
+  <img src="/images/AD/6.jpg" alt="Image 4" style="width: 85%; height: auto;" />
   <figcaption>Preliminary algorithm verification</figcaption>
   </figure>
 
@@ -52,12 +52,12 @@ In the freight terminal, we develop an autonomous driving system to enable unman
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/7.jpg" alt="Image 1" style="width: 100%; height: auto;" />
+    <img src="/images/AD/7.jpg" alt="Image 1" style="width: 85%; height: auto;" />
     <figcaption>Mine (captured by DJI Mini3 Pro)</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/8.jpg" alt="Image 2" style="width: 100%; height: auto;" />
+    <img src="/images/AD/8.jpg" alt="Image 2" style="width: 85%; height: auto;" />
     <figcaption>Mine truck equipped with an autonomous driving system</figcaption>
   </figure>
 </div>
