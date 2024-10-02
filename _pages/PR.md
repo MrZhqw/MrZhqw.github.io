@@ -70,7 +70,7 @@ In the complex outdoor environment, we develop an autonomous driving system to e
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/AD/9.jpg" alt="Image 1" style="width: 85%; height: auto;" />
+    <img src="/images/AD/7.jpg" alt="Image 1" style="width: 85%; height: auto;" />
     <figcaption>Gobi Desert</figcaption>
   </figure>
 
@@ -127,7 +127,7 @@ Airsim环境、Airsim四旋翼飞行(下午截)
 ### <font color="#2B6ADD" > Tilt-rotor Flight Control Based On Reinforcement Learning </font>
 
 <p style="text-align: justify">
-To address the control and decision-making issues of tilt-rotor aircraft, Research the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement. learning
+To address the control and decision-making issues of tilt-rotor aircraft, Research the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement learning. Currently, I am working hard on it.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
