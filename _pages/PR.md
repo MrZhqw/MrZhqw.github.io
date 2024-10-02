@@ -14,28 +14,28 @@ I enjoy creating interesting things through hands-on and thinking, despite encou
 <p style="text-align: justify">
 In the freight terminal, we develop an autonomous driving system to enable unmanned operations for heavy trucks.
 </p>
-<br>
 
-<!-- <div style="display: flex; justify-content: space-between;">
-  <figure style="margin: 0; text-align: center;">
-    <img src="/images/500x300.png" alt="Image 1" style="width: 45%;" />
+<div style="display: flex; justify-content: space-between;">
+  <figure style="margin: 5; text-align: center;">
+    <img src="/images/500x300.png" alt="Image 1"/>
     <figcaption>图题 1：这是图像 1 的描述。</figcaption>
   </figure>
 
-  <figure style="margin: 0; text-align: center;">
-    <img src="/images/500x300.png" alt="Image 2" style="width: 45%;" />
+  <figure style="margin: 5; text-align: center;">
+    <img src="/images/500x300.png" alt="Image 2" />
     <figcaption>图题 2：这是图像 2 的描述。</figcaption>
   </figure>
-</div> -->
+</div>
 
 <!-- <figure style="margin: 0; text-align: center;">
   <img src="/images/500x300.png" alt="Image 1" style="width: 45%;" />
   <figcaption style="margin-top: 5px;">存在一些问题</figcaption>
 </figure> -->
-<figure>
+<!-- <figure>
   <img src="/images/500x300.png" alt="Image 1" />
   <figcaption>图题 1：这是图像 1 的描述。</figcaption>
-</figure>
+
+</figure> -->
 
 
 
@@ -55,7 +55,7 @@ Carsim仿真、验证车
 
 ### <font color="#2B6ADD" > 基于模型的强化学习 </font>
 
-Airsim环境、Airsim四旋翼飞行
+Airsim环境、Airsim四旋翼飞行(下午截)
 基于模型的强化学习，实机验证一张图
 四旋翼静止图片、飞行图片
 
