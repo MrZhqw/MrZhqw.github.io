@@ -5,7 +5,7 @@ title: ""
 author_profile: true
 ---
 <p style="text-align: justify">
-I enjoy creating interesting things through hands-on and thinking, despite encountering many problems in this process. I will share some interesting pictures of projects and research in this page.
+I enjoy creating interesting things through my thinking and hands, although I may encounter many problems in this process. I will share some interesting pictures of projects and research in this page.
 </p>
 
 ## <font color="#2B6ADD" > Autonomous Driving </font>
