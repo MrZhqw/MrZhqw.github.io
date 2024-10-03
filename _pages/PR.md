@@ -91,12 +91,12 @@ We propose a novel quadrotor control policy using Gaussian ensemble model-based 
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/3.jpg" alt="Image 1" style="width: 85%; height: auto;" />
+    <img src="/images/RL/1.png" alt="Image 1" style="width: 85%; height: auto;" />
     <figcaption>Airsim simulation</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/4.jpg" alt="Image 2" style="width: 85%; height: auto;" />
+    <img src="/images/RL/2.png" alt="Image 2" style="width: 85%; height: auto;" />
     <figcaption>Flying quadrotor in Airsim simulator</figcaption>
   </figure>
     <figure style="margin: 0; text-align: center;">
@@ -109,12 +109,12 @@ We propose a novel quadrotor control policy using Gaussian ensemble model-based 
     <figcaption>The training framework for quadrotor in AirSim</figcaption>
   </figure>
     <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/3.jpg" alt="Image 5" style="width: 85%; height: auto;" />
+    <img src="/images/RL/5.jpg" alt="Image 5" style="width: 85%; height: auto;" />
     <figcaption>Quadrotor based on Pixhawk</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/4.jpg" alt="Image 6" style="width: 85%; height: auto;" />
+    <img src="/images/RL/6.jpg" alt="Image 6" style="width: 85%; height: auto;" />
     <figcaption>Quadrotor flying verification</figcaption>
   </figure>
 </div>
@@ -127,12 +127,12 @@ To address the control and decision-making issues of tilt-rotor aircraft, we stu
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/5.jpg" alt="Image 1" style="width: 85%; height: auto;" />
+    <img src="/images/RL/7.jpg" alt="Image 1" style="width: 85%; height: auto;" />
     <figcaption>Three flight modes of tilt-rotor aircraft</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/5.jpg" alt="Image 2" style="width: 85%; height: auto;" />
+    <img src="/images/RL/8.png" alt="Image 2" style="width: 85%; height: auto;" />
     <figcaption>X-Plane Simulation</figcaption>
   </figure>
 </div>
