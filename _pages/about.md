@@ -19,7 +19,7 @@ I am currently a master's student in the Department of Intelligent Science and T
 
 
 <p style="text-align: justify">
-Due to the characteristics of my major, I participated in many research projects and competitions during my study in the school, these experiences significantly enhanced my practical skills, problem-solving abilities and research innovation capabilities. The research work during my undergraduate and master's stages mainly includes <strong>Robotics</strong>, <strong>Reinforcement Learning</strong> and <strong>Unmanned Systems</strong>. <strong>I am interested and passionate in handling challenges of Artificial Intelligence in real-world applications</strong>. Currently, I am focusing and working hard on researching feasible reinforcement learning methods to address the control and decision-making issues of tilt-rotor VTOL aircraft, which is an important aircraft for  low-altitude economy.
+Due to the characteristics of my major, I participated in many research projects and competitions during my study in the school, these experiences significantly enhanced my practical skills, problem-solving abilities and research innovation capabilities. The research work during my undergraduate and master's stages mainly includes Robotics, Reinforcement Learning and Unmanned Systems. <strong>I am interested and passionate in handling challenges of Artificial Intelligence in real-world applications</strong>. Currently, I am focusing and working hard on researching feasible reinforcement learning methods to address the control and decision-making issues of tilt-rotor VTOL aircraft, which is an important aircraft for  low-altitude economy.
 </p>
 
 ## <font color="#2B6ADD" > About Future </font>
