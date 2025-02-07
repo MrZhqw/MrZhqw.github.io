@@ -119,10 +119,10 @@ We propose a novel quadrotor control policy using Gaussian ensemble model-based 
   </figure>
 </div>
 
-### <font color="#2B6ADD" > Tilt-rotor Flight Control Based On Reinforcement Learning </font>
+### <font color="#2B6ADD" > Tilt-rotor Flight Control Based On Hierarchical Reinforcement Learning </font>
 
 <p style="text-align: justify">
-To address the control and decision-making issues of tilt-rotor aircraft, we study the dynamic variation mechanisms of tilt-rotor aircraft under different flight modes based on reinforcement learning. Currently, I am working hard on it.
+To address the control and decision-making issues of tilt-rotor UAVs (TRUAVs), we propose a full-mode control method based on hierarchical reinforcement learning,and constructs a hierarchical controller for the TRUAVs. We have submitted this work to IEEE Transactions on Automation Science and Engineering (TASE), and we also present a [video](https://www.bilibili.com/video/BV1pbcHe4EcX/?vd_source=dd7957251baaf47a0f5a3d90243e8287) of our results.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
