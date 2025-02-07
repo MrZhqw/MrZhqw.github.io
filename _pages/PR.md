@@ -122,7 +122,7 @@ We propose a novel quadrotor control policy using Gaussian ensemble model-based 
 ### <font color="#2B6ADD" > Tilt-rotor Flight Control Based On Hierarchical Reinforcement Learning </font>
 
 <p style="text-align: justify">
-To address the control and decision-making issues of tilt-rotor UAVs (TRUAVs), we propose a full-mode control method based on hierarchical reinforcement learning,and constructs a hierarchical controller for the TRUAVs. We have submitted this work to IEEE Transactions on Automation Science and Engineering (TASE), and we also present a [video](https://www.bilibili.com/video/BV1pbcHe4EcX/?vd_source=dd7957251baaf47a0f5a3d90243e8287) of our results.<a href="https://www.bilibili.com/video/BV1pbcHe4EcX/?vd_source=dd7957251baaf47a0f5a3d90243e8287" target="_blank">video</a>
+To address the control and decision-making issues of tilt-rotor UAVs (TRUAVs), we propose a full-mode control method based on hierarchical reinforcement learning,and constructs a hierarchical controller for the TRUAVs. We have submitted this work to IEEE Transactions on Automation Science and Engineering (TASE), and we also present a <a href="https://www.bilibili.com/video/BV1pbcHe4EcX/?vd_source=dd7957251baaf47a0f5a3d90243e8287" target="_blank">video</a> of our results.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;align-items: flex-end">
@@ -132,13 +132,18 @@ To address the control and decision-making issues of tilt-rotor UAVs (TRUAVs), w
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/X-Plane.svg" alt="Image 2" style="width: 85%; height: auto;" />
-    <figcaption>X-Plane simulation</figcaption>
+    <img src="/images/RL/algorithm.svg" alt="Image 2" style="width: 85%; height: auto;" />
+    <figcaption>The algorithm framework of full-mode flight control for the TRUAV</figcaption>
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/TRUAV.svg" alt="Image 3" style="width: 85%; height: auto;" />
-    <figcaption>X-Plane simulation</figcaption>
+    <img src="/images/RL/X-Plane.svg" alt="Image 3" style="width: 85%; height: auto;" />
+    <figcaption>The X-Plane simulation platform</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/TRUAV.svg" alt="Image 4" style="width: 85%; height: auto;" />
+    <figcaption>The self-developed TRUAV</figcaption>
   </figure>
 </div>
 
