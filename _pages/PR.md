@@ -132,7 +132,12 @@ To address the control and decision-making issues of tilt-rotor UAVs (TRUAVs), w
   </figure>
 
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/RL/8.png" alt="Image 2" style="width: 85%; height: auto;" />
+    <img src="/images/RL/X-Plane.svg" alt="Image 2" style="width: 85%; height: auto;" />
+    <figcaption>X-Plane simulation</figcaption>
+  </figure>
+
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/RL/TRUAV.svg" alt="Image 3" style="width: 85%; height: auto;" />
     <figcaption>X-Plane simulation</figcaption>
   </figure>
 </div>
